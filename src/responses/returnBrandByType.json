@@ -1,0 +1,253 @@
+[
+  {
+    "type": "6",
+    "value": [
+      {
+        "id": "12",
+        "name": "Revolt Bike",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2021-04-07 12:04:35",
+        "updated_at": "2021-04-07 12:04:35",
+        "brand_images": "revolt.png",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/revolt.png"
+      },
+      {
+        "id": "13",
+        "name": "Bajaj Chetak",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2021-04-07 12:04:49",
+        "updated_at": "2021-04-07 12:04:49",
+        "brand_images": "Bajaj Chetak.png",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/Bajaj Chetak.png"
+      },
+      {
+        "id": "14",
+        "name": "Hero Photon",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2021-04-07 01:04:03",
+        "updated_at": "2021-04-07 01:04:03",
+        "brand_images": "hero.png",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/hero.png"
+      },
+      {
+        "id": "29",
+        "name": "TVS Motor Company",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "30",
+        "name": "Ola Electric",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "31",
+        "name": "Ather Energy",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "32",
+        "name": "Hero Electric",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "33",
+        "name": "Oben EV",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "34",
+        "name": "Okinawa Autotech",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "35",
+        "name": "Ampere",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "36",
+        "name": "Kinetic Green",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "37",
+        "name": "One Electric",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "38",
+        "name": "Kabira Mobility",
+        "ev_type_id": "6",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      }
+    ]
+  },
+
+  {
+    "type": "4",
+    "value": [
+      {
+        "id": "4",
+        "name": "Hyundai",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2021-04-07 12:04:58",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "hyundai.png",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/hyundai.png"
+      },
+      {
+        "id": "5",
+        "name": "MG ZS EV",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2021-04-07 12:04:16",
+        "updated_at": "2021-04-07 12:04:16",
+        "brand_images": "mg.png",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/mg.png"
+      },
+      {
+        "id": "16",
+        "name": "Kia",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "17",
+        "name": "BMW",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "18",
+        "name": "Tata Nexon EV",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "19",
+        "name": "Porsche",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "21",
+        "name": "Jaguar",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "22",
+        "name": "BYD",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "23",
+        "name": "Tata",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "24",
+        "name": "Mercedes-Benz",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-20 00:00:00",
+        "updated_at": "2022-07-20 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      },
+      {
+        "id": "39",
+        "name": "Mahindra e",
+        "ev_type_id": "4",
+        "status": "1",
+        "created_at": "2022-07-21 00:00:00",
+        "updated_at": "2022-07-21 00:00:00",
+        "brand_images": "",
+        "brand_logo": "https://e-amrit.niti.gov.in/assets/brand_logo/"
+      }
+    ]
+  }
+]
