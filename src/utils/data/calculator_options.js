@@ -1,7 +1,6 @@
 export const calculator_options = {
     'Vehicle Segment' : [
-        {label : '2W (Three - Wheeler)', value : '3W'},
-        {label : '3W (Two - Wheeler)', value : '2W'},
+        {label : '2W (Two - Wheeler)', value : '2W'},
         {label : '4W (Four - Wheeler)', value : '4W'},
     ],
     'State' : [

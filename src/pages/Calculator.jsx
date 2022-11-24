@@ -1,4 +1,5 @@
 import ChargingCalculator from "@/components/Calculator/ChargingCalculator";
+import CrudeCalculator from "@/components/Calculator/CrudeCalculator";
 import JourneyCalculator from "@/components/Calculator/JourneyCalculator";
 import Layout from "@/components/common/Layout";
 import { calculator_options } from "@/utils/data/calculator_options";
@@ -47,6 +48,8 @@ const Calculator = () => {
   const [selectedCalculator, setSelectedCalculator] = useState(null);
   if (selectedCalculator==='test') return <Layout><JourneyCalculator></JourneyCalculator></Layout>
   if (selectedCalculator==='test2') return <Layout><ChargingCalculator></ChargingCalculator></Layout>
+  if (selectedCalculator==='test3') return <Layout><CrudeCalculator></CrudeCalculator></Layout>
+  if (selectedCalculator==='test4') return <Layout><CO2Calculator></CO2Calculator></Layout>
 
   return (
     <Layout>
@@ -60,25 +63,25 @@ const Calculator = () => {
               item={'test'}
               selected={selectedCalculator}
               setSelected={setSelectedCalculator}
-              img={'https://res.cloudinary.com/insight-byte/image/upload/v1669209531/image_2_1_pluag9.svg'}
+              img={'https://i.ibb.co/fSfCt5G/journey.png'}
               title={'Journey Calculator'}
             />
             <NavigationItem
               item={'test2'}
               selected={selectedCalculator}
               setSelected={setSelectedCalculator}
-              img={'https://res.cloudinary.com/insight-byte/image/upload/v1669209531/image_2_1_pluag9.svg'}
-              title={'Journey Calculator'}
+              img={'https://i.ibb.co/SfrK7FX/charging.png'}
+              title={'Charging Calculator'}
             />
             <NavigationItem
-              item={'test'}
+              item={'test3'}
               selected={selectedCalculator}
               setSelected={setSelectedCalculator}
-              img={'https://res.cloudinary.com/insight-byte/image/upload/v1669209531/image_2_1_pluag9.svg'}
-              title={'Journey Calculator'}
+              img={'https://i.ibb.co/XLxN8sK/crudeoil.png'}
+              title={'Crude Oil Saving Calculator'}
             />
             <NavigationItem
-              item={'test'}
+              item={'test4'}
               selected={selectedCalculator}
               setSelected={setSelectedCalculator}
               img={'https://res.cloudinary.com/insight-byte/image/upload/v1669209531/image_2_1_pluag9.svg'}
