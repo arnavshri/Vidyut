@@ -1,6 +1,5 @@
 import Layout from "@/components/common/Layout";
 import React, { useState } from "react";
-import INCENTIVE_DATA from "@/utils/data/incentive_data";
 import ItemDescription from "@/components/Incentive/ItemDescription";
 
 
