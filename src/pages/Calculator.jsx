@@ -1,4 +1,5 @@
 import ChargingCalculator from "@/components/Calculator/ChargingCalculator";
+import CO2Calculator from "@/components/Calculator/CO2Calculator";
 import CrudeCalculator from "@/components/Calculator/CrudeCalculator";
 import JourneyCalculator from "@/components/Calculator/JourneyCalculator";
 import Layout from "@/components/common/Layout";
@@ -84,8 +85,8 @@ const Calculator = () => {
               item={'test4'}
               selected={selectedCalculator}
               setSelected={setSelectedCalculator}
-              img={'https://res.cloudinary.com/insight-byte/image/upload/v1669209531/image_2_1_pluag9.svg'}
-              title={'Journey Calculator'}
+              img={'https://i.ibb.co/Ldzrk0v/co2.png'}
+              title={'CO2 Emission Calculator'}
             />
         </div>
         </>
