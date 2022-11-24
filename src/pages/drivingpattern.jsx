@@ -4,9 +4,11 @@ import Layout from '@/components/common/Layout';
 const DrivingPattern = () => {
   return (
     <Layout>
-        <div className='px-12 py-12'>
-        <BarGraph values={[]} labels={[]}/>
-        </div>
+      <div className='px-15 py-12'>
+        {/* dsfj */}
+        <BarGraph values={[]} labels={[]} />
+      </div>
+
     </Layout>
   )
 }
