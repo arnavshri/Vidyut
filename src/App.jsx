@@ -7,6 +7,7 @@ import WhyElectric from "./pages/WhyElectric";
 import { createBrowserRouter } from "react-router-dom";
 import Calculator from "./pages/Calculator";
 import Incentives from "./pages/Incentives";
+import DrivingPattern from "./pages/DrivingPattern";
 
 const App = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const App = createBrowserRouter([
   {
     path: "/why-electric",
     element: <WhyElectric />,
+  },
+  {
+    path: "/driving-pattern",
+    element: <DrivingPattern />,
   },
   {
     path: "/calculator",
