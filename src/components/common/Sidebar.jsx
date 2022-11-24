@@ -23,6 +23,7 @@ const SidebarLinks = [
     {title : 'Why Electric', link:'/why-electric', icon : WhyElectricIcon},
     {title : 'Calculator', link:'/calculator', icon : CalculatorIcon},
     {title : 'Comparator', link:'/choose-vehicle', icon : ChooseIcon},
+    {title : 'Driving Pattern', link:'/drivingpattern', icon : "https://i.ibb.co/1m2X9kp/carbon-road.png"},
     {title : 'Incentives', link:'/incentives', icon : "https://i.ibb.co/gPNm5Dt/incentive-menu.png"},
     {title : 'FAQs', link:'/faqs', icon : FAQIcon},
 ]
